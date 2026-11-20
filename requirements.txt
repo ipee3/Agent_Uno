@@ -1,0 +1,5 @@
+# Installed packages
+agent-framework-foundry
+azure-identity
+winget install --exact --id Microsoft.AzureCLI
+streamlit
